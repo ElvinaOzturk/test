@@ -1,3 +1,4 @@
 Merhaba Dunya
 commit ekledim
 gitden gonderdim
+basarılı oldu
